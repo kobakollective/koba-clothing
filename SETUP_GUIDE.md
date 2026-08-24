@@ -16,7 +16,7 @@ To enable e-commerce functionality, you'll need a Shopify store:
    ```javascript
    const SHOPIFY_CONFIG = {
        storefrontAccessToken: atkn_bcbbed41c4a653edff9f63b880a576d268ab549da44d0f9ecff1031a0c143c2b,
-       shopName: 'your-store-name',
+       shopName: kobakollective,
        apiVersion: '2024-01',
    };
    ```
