@@ -15,7 +15,7 @@ To enable e-commerce functionality, you'll need a Shopify store:
 3. Update `js/shopify-config.js`:
    ```javascript
    const SHOPIFY_CONFIG = {
-       storefrontAccessToken: 'YOUR_TOKEN_HERE',
+       storefrontAccessToken: atkn_bcbbed41c4a653edff9f63b880a576d268ab549da44d0f9ecff1031a0c143c2b,
        shopName: 'your-store-name',
        apiVersion: '2024-01',
    };
